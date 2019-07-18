@@ -7,7 +7,6 @@ public class SecondClass {
         System.out.println("Hello World");
         System.out.println("shefali");
         System.out.println("eclpse");
-        System.out.println("bye");
 	}
 
 }
